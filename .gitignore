@@ -1,0 +1,15 @@
+# Ignore macOS system file
+.DS_Store
+
+# Ignore pycache
+__pycache__
+
+# Ignore virtual environments
+ngsolve_6.2.2505
+
+# Ignore data files
+Matlab_data
+QEP_data
+
+# Ignore MATLAB autosave files
+*.asv
